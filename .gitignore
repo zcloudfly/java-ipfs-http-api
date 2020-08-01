@@ -1,0 +1,15 @@
+.classpath
+.project
+.settings
+.DS_Store
+*.class
+*.log
+dist/*
+target/
+dependency-reduced-pom.xml
+TEST-io.ipfs.api.APITest.*
+
+# Scala-IDE specific
+.idea/*
+api.iml
+
